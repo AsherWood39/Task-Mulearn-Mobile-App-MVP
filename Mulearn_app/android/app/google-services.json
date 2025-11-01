@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827374989619",
+    "project_id": "mulearn-mobile-app-mvp",
+    "storage_bucket": "mulearn-mobile-app-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827374989619:android:3c084c94cf001e1c678e46",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdcrt7XJP6DWsTd4KHZomPnflBkiutwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
